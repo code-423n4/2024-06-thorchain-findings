@@ -1,0 +1,8 @@
+{
+  "contest": 386,
+  "handle": "Limbooo",
+  "risk": "3",
+  "title": "`_transferOutAndCallV5` Does Not Send Gas Token to Recipient on Failing Aggregator",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/11"
+}
