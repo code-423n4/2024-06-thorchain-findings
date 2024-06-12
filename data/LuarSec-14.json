@@ -1,0 +1,8 @@
+{
+  "contest": 386,
+  "handle": "LuarSec",
+  "risk": "2",
+  "title": "`earlyExit` is not set to true in `transferAllowanceEvent` case in `smartcontract_log_parser:GetTxInItem`",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/14"
+}
