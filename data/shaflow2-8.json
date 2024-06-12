@@ -1,0 +1,8 @@
+{
+  "contest": 386,
+  "handle": "shaflow2",
+  "risk": "3",
+  "title": "When calling the batchTransferOutV5 functions, some events may be filtered out",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/8"
+}
