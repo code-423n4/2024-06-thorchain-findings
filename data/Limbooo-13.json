@@ -1,0 +1,8 @@
+{
+  "contest": 386,
+  "handle": "Limbooo",
+  "risk": "2",
+  "title": "`_transferOutAndCallV5` Doesn't Return Funds to Recipient with Failing Aggregator",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/13"
+}
