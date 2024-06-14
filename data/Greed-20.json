@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "Greed",
+  "risk": "3",
+  "title": "The `TransferOutAndCallV5` event is not caught by `smartcontract_log_parser.go`",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/20",
+  "originalIssueId": 121,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/121"
+}
