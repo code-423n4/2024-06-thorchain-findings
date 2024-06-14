@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "rbserver",
+  "risk": "3",
+  "title": "Calling `_transferOutAndCallV5` function with `aggregationPayload.fromAsset` being `address(0)` causes vault to incorrectly send `msg.value` to target aggregator instead of recipient when calling target aggregator's `swapOutV5` function reverts",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/42",
+  "originalIssueId": 197,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/197"
+}
