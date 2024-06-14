@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "_karanel",
+  "risk": "3",
+  "title": "If swap fails incorrect event data is emitted in `THORChain_Router::transferOutAndCall` function, leading to incorrect tracking of funds by the Bifrost and breaking Main Invariant of the protocol",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/73",
+  "originalIssueId": 82,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/82"
+}
