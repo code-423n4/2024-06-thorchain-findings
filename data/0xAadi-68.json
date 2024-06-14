@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "0xAadi",
+  "risk": "3",
+  "title": "Missing Event Handling for `TransferOutAndCallV5` in `smartcontract_log_parser`",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/68",
+  "originalIssueId": 101,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/101"
+}
