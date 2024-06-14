@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "typicalHuman",
+  "risk": "3",
+  "title": "If calling `swapOutV5` would fail on target contract this could lead to loss of funds",
+  "issueId": 88,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/88",
+  "originalIssueId": 35,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/35"
+}
