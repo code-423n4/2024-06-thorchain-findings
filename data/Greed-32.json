@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "Greed",
+  "risk": "2",
+  "title": "When dealing with native coin, the `TransferOut*` events are still triggered on error",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/32",
+  "originalIssueId": 235,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/235"
+}
