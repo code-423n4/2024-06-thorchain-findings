@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "TECHFUND-inc",
+  "risk": "2",
+  "title": "THORChain_Router::batchTransferOutAndCallV5 reuses msg.value across a batch and will revert.",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/72",
+  "originalIssueId": 85,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/85"
+}
