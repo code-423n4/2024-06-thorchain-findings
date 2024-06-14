@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "0xfox",
+  "risk": "2",
+  "title": "`THORChain_Router::batchTransferOutAndCallV5` function uses `msg.value` in a loop which makes the function unusable for batch transfers of ETH",
+  "issueId": 77,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/77",
+  "originalIssueId": 76,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/76"
+}
