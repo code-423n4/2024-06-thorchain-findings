@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "Team_RockSolid",
+  "risk": "2",
+  "title": "_transferOutAndCallV5 emits event even if aggregator fails",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/57",
+  "originalIssueId": 144,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/144"
+}
