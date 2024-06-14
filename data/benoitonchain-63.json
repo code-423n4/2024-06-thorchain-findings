@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "benoitonchain",
+  "risk": "3",
+  "title": "Msg-value-loop",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/63",
+  "originalIssueId": 122,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/122"
+}
