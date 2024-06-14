@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "rbserver",
+  "risk": "3",
+  "title": "`aggregationPayload.fromAmount` of an ERC20 token can be lost when calling `_transferOutAndCallV5` function for such token if target aggregator's `swapOutV5` function call reverts",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/16",
+  "originalIssueId": 198,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/198"
+}
