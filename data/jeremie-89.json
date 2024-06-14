@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "jeremie",
+  "risk": "3",
+  "title": "Send eth to the wrong person, which leads to errors.",
+  "issueId": 89,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/89",
+  "originalIssueId": 26,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/26"
+}
