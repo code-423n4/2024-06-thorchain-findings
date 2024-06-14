@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "forgebyola",
+  "risk": "2",
+  "title": "Any Eth in router contract can be stolen by a malicious user",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/49",
+  "originalIssueId": 170,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/170"
+}
