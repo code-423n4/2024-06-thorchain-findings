@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "mt030d",
+  "risk": "2",
+  "title": "`batchTransferOutV5` fails when there are more than one native asset transfers",
+  "issueId": 94,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/94",
+  "originalIssueId": 5,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/5"
+}
