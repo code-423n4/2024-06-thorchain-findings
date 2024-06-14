@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "Bauchibred",
+  "risk": "3",
+  "title": "Protocol could be tricked on some to-be integrated tokens",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/62",
+  "originalIssueId": 133,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/133"
+}
