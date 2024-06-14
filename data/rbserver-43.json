@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "rbserver",
+  "risk": "3",
+  "title": "Attacker can steal shares of \"vault-like\" tokens, such as stETH, that should belong to legitimate vaults",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/43",
+  "originalIssueId": 196,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/196"
+}
