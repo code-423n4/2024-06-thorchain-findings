@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "LinKenji",
+  "risk": "2",
+  "title": "Gas Price Overestimation Due to Incorrect Standard Deviation Calculation.",
+  "issueId": 21,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/21",
+  "originalIssueId": 108,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/108"
+}
