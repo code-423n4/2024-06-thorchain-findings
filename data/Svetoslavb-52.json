@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "Svetoslavb",
+  "risk": "3",
+  "title": "[H-03] Incorrect event emissions, tricking the `smartcontract_log_parser`",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/52",
+  "originalIssueId": 156,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/156"
+}
