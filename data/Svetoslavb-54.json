@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "Svetoslavb",
+  "risk": "2",
+  "title": "[M-03] Indirect use of `msg.value` in for loop, causing DoS of `THORChain_Router::batchTransferOutAndCallV5`",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/54",
+  "originalIssueId": 150,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/150"
+}
