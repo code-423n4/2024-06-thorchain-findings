@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "bigtone",
+  "risk": "3",
+  "title": "If the swapOut fails, the Ether should be sent to the recipient instead of the aggregator",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/75",
+  "originalIssueId": 80,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/80"
+}
