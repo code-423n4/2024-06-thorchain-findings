@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "iam_emptyset",
+  "risk": "2",
+  "title": "Calling transferOutAndCallV5 function with fee on transfer token will fail",
+  "issueId": 83,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/83",
+  "originalIssueId": 48,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/48"
+}
