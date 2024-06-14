@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "dvrkzy",
+  "risk": "3",
+  "title": "If swap fails a vault will lose the ETH it has sent",
+  "issueId": 86,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/86",
+  "originalIssueId": 39,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/39"
+}
