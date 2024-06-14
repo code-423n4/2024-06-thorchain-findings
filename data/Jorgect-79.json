@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "Jorgect",
+  "risk": "2",
+  "title": "User can loss hsi funds in `_transferOutAndCallV5` function",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/79",
+  "originalIssueId": 60,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/60"
+}
