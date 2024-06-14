@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "Svetoslavb",
+  "risk": "2",
+  "title": "Incorrect call argument in `THORChain_Router::_transferOutAndCallV5`, leading to grief/steal of `THORChain_Aggregator`'s funds or DoS",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/55",
+  "originalIssueId": 149,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/149"
+}
