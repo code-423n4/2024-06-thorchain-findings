@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "Team_RockSolid",
+  "risk": "3",
+  "title": "In _transferOutAndCallV5, ETH is incorrectly sent to target",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/59",
+  "originalIssueId": 141,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/141"
+}
