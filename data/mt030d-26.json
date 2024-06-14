@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "mt030d",
+  "risk": "3",
+  "title": "`batchTransferOutV5` could emit multiple `TransferOut` events, but Bifrost Observation can handle only one per transaction.",
+  "issueId": 26,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/26",
+  "originalIssueId": 7,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/7"
+}
