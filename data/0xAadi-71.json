@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "0xAadi",
+  "risk": "3",
+  "title": "`batchTransferOutAndCallV5` Will Always Revert if There is More Than One `ETH` Transfer",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/71",
+  "originalIssueId": 90,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/90"
+}
