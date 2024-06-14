@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "dontonka",
+  "risk": "3",
+  "title": "THORChain chain risk of DoS due to the increase in transactions and events to process",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/24",
+  "originalIssueId": 45,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/45"
+}
