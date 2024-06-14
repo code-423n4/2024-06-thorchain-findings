@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "dontonka",
+  "risk": "2",
+  "title": "`SmartContractLogParser::GetTxInItem` is not considering Log.Removed field",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/27",
+  "originalIssueId": 6,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/6"
+}
