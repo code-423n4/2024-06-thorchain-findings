@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "mt030d",
+  "risk": "2",
+  "title": "The THORChain Router is not compatible with ERC20 tokens that modify balances outside of transfers",
+  "issueId": 95,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/95",
+  "originalIssueId": 4,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/4"
+}
