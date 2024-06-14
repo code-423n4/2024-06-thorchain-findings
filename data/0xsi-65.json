@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "0xsi",
+  "risk": "3",
+  "title": "`THORChain_Router::batchTransferOutAndCallV5` can be abused and user can drain contract funds.",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/65",
+  "originalIssueId": 112,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/112"
+}
