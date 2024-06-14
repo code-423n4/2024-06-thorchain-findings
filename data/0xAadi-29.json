@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "0xAadi",
+  "risk": "2",
+  "title": "Incorrect Event Emission due to Ether Transfer Failure in THORChain Router Contract",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/29",
+  "originalIssueId": 241,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/241"
+}
