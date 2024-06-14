@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "nfmelendez",
+  "risk": "2",
+  "title": "Router transferOutAndCallV5:  Fee on transfer tokens lead to an error when swap and incorrect approval accounting",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/64",
+  "originalIssueId": 119,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/119"
+}
