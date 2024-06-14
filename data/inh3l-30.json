@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "inh3l",
+  "risk": "2",
+  "title": "`batchTransferOutAndCallV5` will be unusable due to msg.value in a loop type situation.",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/30",
+  "originalIssueId": 239,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/239"
+}
