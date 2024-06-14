@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "bigtone",
+  "risk": "2",
+  "title": "TransferOutAndCall event should not be emitted if the `ethSuccess` is false",
+  "issueId": 74,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/74",
+  "originalIssueId": 81,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/81"
+}
