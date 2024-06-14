@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "Greed",
+  "risk": "3",
+  "title": "Assets can be stolen after a swap attempt in `_transferOutAndCallV5()`",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/36",
+  "originalIssueId": 226,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/226"
+}
