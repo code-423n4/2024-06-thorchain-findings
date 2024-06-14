@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "dhank",
+  "risk": "2",
+  "title": "looping through the whiteList aggregator even though disableWhitelist=1",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/18",
+  "originalIssueId": 187,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/187"
+}
