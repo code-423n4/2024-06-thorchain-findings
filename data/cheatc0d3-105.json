@@ -1,0 +1,10 @@
+{
+  "contest": 386,
+  "handle": "cheatc0d3",
+  "risk": "2",
+  "title": "Rebasing Tokens Cause Incorrect Balance Calculations and Unexpected Behavior in safeTransferFrom Function",
+  "issueId": 105,
+  "issueUrl": "https://github.com/code-423n4/2024-06-thorchain-findings/issues/105",
+  "originalIssueId": 201,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-06-thorchain-validation/issues/201"
+}
